@@ -1,5 +1,5 @@
 # UltrasonicDetector
-Using an ESP32 and the analog portion of a JSN-04T ultrasonic range finder to observe tagged fish in Stony Lake
+Using an ESP32 and the analog portion of a JSN-SR04T ultrasonic range finder to observe tagged fish in Stony Lake
 
 Coming soon. Contact me through benlo.com to encourage me.
 
